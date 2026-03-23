@@ -8,7 +8,7 @@
 - 🔹 AI/ML professional with **2+ years of industry experience at Accenture**
 - 🔹 Specialized in **Generative AI, Agentic AI systems, and automation**
 - 🔹 Experienced in building **end-to-end AI solutions (frontend + backend)**
-- 🔹 Strong foundation in **Machine Learning, Python, and scalable AI systems**
+- 🔹 Strong interest in **teaching and simplifying complex AI concepts**
 - 🔹 Passionate about solving real-world problems using intelligent systems
 
 ---
