@@ -40,5 +40,11 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/yashaswini-c-5481361b0/
 
 ---
+#### ✍️ I Write on Medium
+I share insights on **AI Agents, RAG Systems, and Generative AI** in a simple and practical way.
+
+👉 Follow my work on Medium: https://medium.com/@cyashaswini002
+
+---
 
 ⭐ *“Building intelligent AI systems that solve real-world problems at scale.”*
