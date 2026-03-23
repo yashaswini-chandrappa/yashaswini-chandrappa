@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Yashaswini Chandrappa
 
-<!--
-**yashaswini-chandrappa/yashaswini-chandrappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI/ML Computational Science Analyst at Accenture | Gen AI Developer | AI Agents | RAG Systems | Python | LLM Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🔹 AI/ML professional with **2+ years of industry experience at Accenture**
+- 🔹 Specialized in **Generative AI, Agentic AI systems, and automation**
+- 🔹 Experienced in building **end-to-end AI solutions (frontend + backend)**
+- 🔹 Strong foundation in **Machine Learning, Python, and scalable AI systems**
+- 🔹 Passionate about solving real-world problems using intelligent systems
+
+---
+
+## 🔥 What I Do
+- 🤖 Build **AI Agents & Multi-Agent Systems**
+- 📄 Develop **RAG-based document intelligence solutions**
+- 🔗 Integrate AI with real-world enterprise applications
+
+---
+
+## 🛠️ Tech Stack
+
+- 💻 Languages: Python, JavaScript
+- 🤖 AI/ML: LLMs, NLP, Machine Learning, Generative AI
+- ☁️ Platforms: GCP, Node.js backend
+
+---
+
+## 📈 Current Focus
+- 🚀 Advanced **Agentic AI architectures**
+- 🧠 Improving **LLM reasoning & response quality**
+- 🔍 Building scalable **AI-driven applications**
+
+---
+
+## 📫 Connect With Me
+- 🔗 GitHub: https://github.com/yashaswini-chandrappa
+- 💼 LinkedIn: https://www.linkedin.com/in/yashaswini-c-5481361b0/
+
+---
+
+⭐ *“Building intelligent AI systems that solve real-world problems at scale.”*
